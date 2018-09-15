@@ -1,0 +1,50 @@
+
+body {
+
+}
+h1 {
+  font-family:arial;
+  color: white;
+}
+#jiwoolee{
+margin-left:500px;
+margin-top:95px;
+font-size: 80px;
+position:fixed;
+}
+#clickme{
+  margin-left:1000px;
+  margin-top:500px;
+  position:fixed;
+  width: 100px;
+  height: 80px;
+  font-size: 50px;
+}
+#clickmee{
+  margin-left:650px;
+  margin-top:500px;
+  position:fixed;
+  width: 100px;
+  height:80px;
+  font-size: 50px;
+}
+#clickmeee{
+  margin-top: 500px;
+  margin-left:300px;
+  position:fixed;
+  width:100px;
+  height:80px;
+  font-size: 50px;
+}
+
+
+#rounded-box{
+
+  width: 1420px;
+  height: 270px;
+  margin-top: -8px;
+  margin-left: -8px;
+  padding: 5px;
+  border: 5px solid red;
+  background-color: black;
+}
